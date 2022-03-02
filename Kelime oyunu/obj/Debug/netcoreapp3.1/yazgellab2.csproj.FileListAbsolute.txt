@@ -1,0 +1,15 @@
+C:\Users\Enesg\source\repos\yazgellab2\yazgellab2\bin\Debug\netcoreapp3.1\yazgellab2.exe
+C:\Users\Enesg\source\repos\yazgellab2\yazgellab2\bin\Debug\netcoreapp3.1\yazgellab2.deps.json
+C:\Users\Enesg\source\repos\yazgellab2\yazgellab2\bin\Debug\netcoreapp3.1\yazgellab2.runtimeconfig.json
+C:\Users\Enesg\source\repos\yazgellab2\yazgellab2\bin\Debug\netcoreapp3.1\yazgellab2.runtimeconfig.dev.json
+C:\Users\Enesg\source\repos\yazgellab2\yazgellab2\bin\Debug\netcoreapp3.1\yazgellab2.dll
+C:\Users\Enesg\source\repos\yazgellab2\yazgellab2\bin\Debug\netcoreapp3.1\yazgellab2.pdb
+C:\Users\Enesg\source\repos\yazgellab2\yazgellab2\obj\Debug\netcoreapp3.1\yazgellab2.Form1.resources
+C:\Users\Enesg\source\repos\yazgellab2\yazgellab2\obj\Debug\netcoreapp3.1\yazgellab2.Properties.Resources.resources
+C:\Users\Enesg\source\repos\yazgellab2\yazgellab2\obj\Debug\netcoreapp3.1\yazgellab2.csproj.GenerateResource.cache
+C:\Users\Enesg\source\repos\yazgellab2\yazgellab2\obj\Debug\netcoreapp3.1\yazgellab2.AssemblyInfoInputs.cache
+C:\Users\Enesg\source\repos\yazgellab2\yazgellab2\obj\Debug\netcoreapp3.1\yazgellab2.AssemblyInfo.cs
+C:\Users\Enesg\source\repos\yazgellab2\yazgellab2\obj\Debug\netcoreapp3.1\yazgellab2.csproj.CoreCompileInputs.cache
+C:\Users\Enesg\source\repos\yazgellab2\yazgellab2\obj\Debug\netcoreapp3.1\yazgellab2.dll
+C:\Users\Enesg\source\repos\yazgellab2\yazgellab2\obj\Debug\netcoreapp3.1\yazgellab2.pdb
+C:\Users\Enesg\source\repos\yazgellab2\yazgellab2\obj\Debug\netcoreapp3.1\yazgellab2.genruntimeconfig.cache
